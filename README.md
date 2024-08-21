@@ -82,4 +82,4 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
  <!-- ![GitHub metrics](https://metrics.lecoq.io/njdam) -->
 
-<img width=100% title="Coder ukaemma2." alt="Coderukaemma2.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=WakeUp&Pray🙏 -Drink💧 -Think💭 -Code👨‍💻 -Eat🍴 -Code👨‍💻 -Eat🍴 -Pray🙏 -Sleep🛌 -Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+<img width=100% title="Coder ukaemma2." alt="Coderukaemma2.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=WakeUp and Pray🙏-Drink💧 -Think💭 -Code👨‍💻 -Eat🍴 -Code👨‍💻 -Eat🍴 -Pray🙏 -Sleep🛌 -Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
