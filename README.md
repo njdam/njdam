@@ -37,7 +37,7 @@
 
 ## 𝗠𝗲𝘁𝗿𝗶𝗰𝘀
 <p align="center">
-  <a href="https://metrics.lecoq.io/njdam?template=classic&config.timezone=Africa%2FKigali">
+  <a href="[https://metrics.lecoq.io/njdam](https://metrics.lecoq.io/insights/njdam)?template=classic&config.timezone=Africa%2FKigali">
     <img width="494.0px" src="https://metrics.lecoq.io/njdam?template=classic&config.timezone=Africa%2FKigali">
   </a>
 </p>
