@@ -40,13 +40,11 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![[📈JeanDamN's Github Metrics](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://metrics.lecoq.io/insights/njdam)
+![[📈JeanDamN's Github Metrics](https://metrics.lecoq.io/insights/njdam)](http://img.shields.io/badge/-Flask-eee?style=flat-square&logo=flask&logoColor=000000)
 <!-- Other sections here -->
-| .                                                                                                                                       | .                                                                                                                         |
+| Github Status                                                                                                                                      | Languages                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![JeanDamN's github stats](https://github-readme-stats.vercel.app/api?username=njdam&show_icons=true&theme=radical) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=njdam&theme=radical&layout=compact) |
-
-[![Uka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ukaemma2&theme=dracula)](https://github.com/ukaemma2/github-readme-activity-graph)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=njdam"></img>
 
