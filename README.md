@@ -36,6 +36,17 @@
 </br>
 
 ## 𝗠𝗲𝘁𝗿𝗶𝗰𝘀
+<!-- GitHub Metrics -->
+[![Metrics](https://metrics.lecoq.io/insights/njdam)](https://metrics.lecoq.io/insights/njdam)
+
+<!-- Other sections here -->
+
+<!--   my-header-img -->
+![](./src/header_.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Greetings!+I+am+Jean+Damascene+Ngaboyimana.;Biomedical+Laboratory+Scientist+%26+Software+Engineer.;Driven+by+Innovation+and+Technology.;ALX+Africa+Alumni)](https://git.io/typing-svg)
+
+<!-- Contact Information and other sections follow -->
 <p align="center">
   <a href="[https://metrics.lecoq.io/njdam](https://metrics.lecoq.io/insights/njdam)?template=classic&config.timezone=Africa%2FKigali">
     <img width="494.0px" src="https://metrics.lecoq.io/njdam?template=classic&config.timezone=Africa%2FKigali">
