@@ -35,22 +35,63 @@
 | **OS**                                          | <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue"><img src="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue" alt="Windows"></a> <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/-Linux-black?style=flat-square&amp;logo=linux&amp;logoColor=blue"><img src="https://img.shields.io/badge/-Linux-black?style=flat-square&amp;logo=linux&amp;logoColor=blue" alt="Linux"></a>                                                                                                                                                                                                                                                                                                                         
 </br>
 
-## 𝗠𝗲𝘁𝗿𝗶𝗰𝘀
-<!-- GitHub Metrics -->
-[![Metrics](https://metrics.lecoq.io/insights/njdam)](https://metrics.lecoq.io/insights/njdam)
+| **Tools & Platform**                            | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Machine Learning / Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
 
-<!-- Other sections here -->
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![Uka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ukaemma2&theme=dracula)](https://github.com/ukaemma2/github-readme-activity-graph)
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![Ukah's github stats](https://github-readme-stats.vercel.app/api?username=ukaemma2&show_icons=true&theme=radical) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ukaemma2&theme=radical&layout=compact) |
 
-<!--   my-header-img -->
-![](./src/header_.png)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ukaemma2"></img>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Greetings!+I+am+Jean+Damascene+Ngaboyimana.;Biomedical+Laboratory+Scientist+%26+Software+Engineer.;Driven+by+Innovation+and+Technology.;ALX+Africa+Alumni)](https://git.io/typing-svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukaemma2)](https://github.com/ukaemma2/github-readme-stats)
 
-<!-- Contact Information and other sections follow -->
-<p align="center">
-  <a href="[https://metrics.lecoq.io/njdam](https://metrics.lecoq.io/insights/njdam)?template=classic&config.timezone=Africa%2FKigali">
-    <img width="494.0px" src="https://metrics.lecoq.io/njdam?template=classic&config.timezone=Africa%2FKigali">
-  </a>
+
+
+<!--   grid-snake -->
+<!-- ![Uka's github grid](https://github.com/ukaemma2/ukaemma2/blob/output/github-contribution-grid-snake.svg) -->
+
+
+<!--   skyline 
+<a href="https://skyline.github.com/Mkiige/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
+
+<div align="center">
+<summary>:trophy: Github Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ukaemma2" alt="ukaemma2" /></a>
 </p>
 
-<br/>
+
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/ukaemma2/count.svg">  
+
+counting of visitors to this page in this section started from June 6, 2022
+    <a href="https://info.flagcounter.com/wHMU"><img src="https://s11.flagcounter.com/count2/wHMU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+
+
+#### Thanks for visiting :heart:
+
+[MIT](LICENSE)
+ </p>
+
+---
+  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
+---
+Would you like to meet me?
+
+If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
+
+---
+  
+
+ <!-- ![GitHub metrics](https://metrics.lecoq.io/Mkiige-0713) -->
+
+<img width=100% title="Coder ukaemma2." alt="Coderukaemma2.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
