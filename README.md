@@ -40,7 +40,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![[📈JeanDamN's Github Metrics](https://metrics.lecoq.io/insights/njdam)](http://img.shields.io/badge/-Flask-eee?style=flat-square&logo=flask&logoColor=000000)
+[📈JeanDamN's Github Metrics](https://metrics.lecoq.io/insights/njdam)
 <!-- Other sections here -->
 | Github Status                                                                                                                                      | Languages                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -49,8 +49,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=njdam"></img>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njdam)](https://github.com/njdam/github-readme-stats)
- 
-<a href="https://skyline.github.com/Mkiige/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 
 <div align="center">
 <summary>:trophy: Github Profile Trophy</summary>
@@ -63,7 +61,7 @@
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/njdam/count.svg">  
 
-Counting of visitors to this page in this section started from 2015
+Counting of visitors to this page in this section started from 2015 
     <a href="https://info.flagcounter.com/wHMU"><img src="https://s11.flagcounter.com/count2/wHMU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 #### Thanks for visiting :heart:
