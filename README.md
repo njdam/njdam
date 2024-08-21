@@ -41,9 +41,9 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![JeanDamN's github activity graph](https://metrics.lecoq.io/insights/njdam)](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)
+[![JeanDamN's github activity graph](📈)](https://metrics.lecoq.io/insights/njdam)
 <!-- Other sections here -->]
-| ![JeanDamN's github stats](https://github-readme-stats.vercel.app/api?username=njdam&show_icons=true&theme=radical) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=njdam&theme=radical&layout=compact) |
+![JeanDamN's github stats](https://github-readme-stats.vercel.app/api?username=njdam&show_icons=true&theme=radical) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=njdam&theme=radical&layout=compact) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=njdam"></img>
 
