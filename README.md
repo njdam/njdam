@@ -43,14 +43,12 @@
 ### 📈 GitHub Activity Graph:
 [![JeanDamN's github activity graph](https://metrics.lecoq.io/insights/njdam)](https://metrics.lecoq.io/insights/njdam)
 <!-- Other sections here -->]
-| .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![JeanDamN's github stats](https://github-readme-stats.vercel.app/api?username=njdam&show_icons=true&theme=radical) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=njdam&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=njdam"></img>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njdam)](https://github.com/njdam/github-readme-stats)
-
  
 <a href="https://skyline.github.com/Mkiige/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 
@@ -61,8 +59,6 @@
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njdam" alt="njdam" /></a>
 </p>
-
-
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/njdam/count.svg">  
@@ -87,4 +83,4 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
  <!-- ![GitHub metrics](https://metrics.lecoq.io/njdam) -->
 
-<img width=100% title="" alt="jeandamn" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
