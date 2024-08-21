@@ -40,8 +40,8 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![📈JeanDamN's github activity graph]()](https://metrics.lecoq.io/insights/njdam)
-<!-- Other sections here -->]
+![📈JeanDamN's Github Metrics](https://metrics.lecoq.io/insights/njdam)
+<!-- Other sections here -->
 ![JeanDamN's github stats](https://github-readme-stats.vercel.app/api?username=njdam&show_icons=true&theme=radical) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=njdam&theme=radical&layout=compact) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=njdam"></img>
@@ -61,7 +61,7 @@
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/njdam/count.svg">  
 
-counting of visitors to this page in this section started from June 6, 2022
+Counting of visitors to this page in this section started from 2015
     <a href="https://info.flagcounter.com/wHMU"><img src="https://s11.flagcounter.com/count2/wHMU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 #### Thanks for visiting :heart:
