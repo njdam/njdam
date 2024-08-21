@@ -15,7 +15,7 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Greetings!+I'm+Jean+Damascene+Ngaboyimana.;Innovative+Technologist+and+Researcher.;Experienced+in+Laboratory+Sciences+and+Software+Engineering.;Passionate+about+Healthcare+Tech+Solutions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Greetings!+I'm+Jean+Damascene+Ngaboyimana.;Innovative+Technologist+and+Researcher.;Experienced+in+Laboratory+Sciences;and+Software+Engineering.;Passionate+about+Healthcare+Tech+Solutions.)](https://git.io/typing-svg)
 
 **📫 How to Reach me:**
 <p align="left">
@@ -60,7 +60,7 @@
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/njdam/count.svg">  
 
-Counting of visitors to this page in this section started from 28th December 2015: --------------------------------->
+Counting of visitors to this page in this section started from 28th December 2015: ------------------------------------->
     <a href="https://info.flagcounter.com/wHMU"><img src="https://s11.flagcounter.com/count2/wHMU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 [📈JeanDamN's Github Metrics](https://metrics.lecoq.io/insights/njdam)
