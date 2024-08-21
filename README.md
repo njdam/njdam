@@ -82,4 +82,4 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
  <!-- ![GitHub metrics](https://metrics.lecoq.io/njdam) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Eat🍴-Sleep🛌-Code👨‍💻-Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Wake%20up%20&%20Pray🙏%20-%20Drink%20Water💧%20-%20Think💭%20-%20Code👨‍💻%20-%20Eat🍴%20-%20Code👨‍💻%20-%20Pray🙏%20&%20Sleep🛌%20-%20Repeat🔁&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=72"/>
